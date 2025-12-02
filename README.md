@@ -178,6 +178,7 @@ Improved reporting efficiency by 80% through automated dashboards.
 :Screenshot/ Demo
 :Show the what the dashboard looks like
 Example:Power BI Dashboard- https://github.com/priya00811-beep/Sales-Forecasting-Performance-Dashboard/blob/main/Sales%20KPI%20%26%20Revenue%20Insights%20Dashboard.png
-sales forecast of 15 Days-
+
+sales forecast of 15 Days- https://github.com/priya00811-beep/Sales-Forecasting-Performance-Dashboard/blob/main/sales%20forecast%20of%2015%20days.png
 
 
