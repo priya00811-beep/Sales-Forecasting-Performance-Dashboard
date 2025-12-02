@@ -46,5 +46,5 @@
 
    6. Screenshot/ Demo:
       Show what the dashboard looks like-
-      Example:
+      Example: https://github.com/priya00811-beep/Sales-Forecasting-Performance-Dashboard/blob/main/Sales%20KPI%20%26%20Revenue%20Insights%20Dashboard.png
 
