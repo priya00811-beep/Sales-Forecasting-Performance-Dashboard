@@ -56,8 +56,6 @@ High-Value Customer Analysis
 
 Sales Forecasting Page
 
-3–6 month forecast using Time Series (DAX / Power BI Forecasting)
-
 Seasonality and Trend Patterns
 
 Future Sales Prediction Chart
@@ -177,24 +175,9 @@ Improved reporting efficiency by 80% through automated dashboards.
 2️⃣ 15-Day Sales Forecast (Zoomed-In View)
 3️⃣ Sales by State
 
-📌 How to Use the Dashboard
-
-Download the .pbix file from this repository.
-
-Open it in Power BI Desktop.
-
-Refresh data / connect to your data source.
-
-Interact with slicers and explore insights.
-
-🤝 Future Improvements
-
-Add AI-powered forecasting
-
-Screenshot/ Demo
+:Screenshot/ Demo
 :Show the what the dashboard looks like
-Example: 
+Example:Power BI Dashboard- https://github.com/priya00811-beep/Sales-Forecasting-Performance-Dashboard/blob/main/Sales%20KPI%20%26%20Revenue%20Insights%20Dashboard.png
+sales forecast of 15 Days-
 
-Include marketing spend correlation
 
-Build a Predictive Model for Customer Lifetime Value (CLV)
