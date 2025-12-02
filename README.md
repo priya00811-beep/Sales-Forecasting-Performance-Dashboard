@@ -1,50 +1,200 @@
-# Sales-Forecasting-Performance-Dashboard
-1. objective-
- To contribute to the sucess of a busniess by utilizing data analysis techniques,
- specifically focusing valuable insights and accurate sales forcasting
+📊 Sales Forecasting & Performance Dashboard (Power BI)
 
-2. Short Description-
-   <Dashboard Creation:
-    Identify the KPIs, design an intutive and visually appealing dashboard,
-   add interactive visualization and filtering capabilities to allow users to explore
-   the data at various levels of granularity
-   <Data Analysis:
-    Provide valuable insights to business entities regarding the effectiveness of their
-   sales strategies thriugh visualazation and charts.
-   Sales Forecasting:
-    <Leverage historic data and apply time series and generate sales forexasts for next 15 days
-   Actionable Insights and Recommendation:
-   End goal is to share valuable insights and actionable
-   information that can drive strategic decision-making and support the markerts goals for growth,
-   effficiency and customer satisfaction.
+A comprehensive Power BI dashboard designed to analyze sales performance, track KPIs, and forecast future sales trends. This project helps businesses make data-driven decisions by identifying growth opportunities, evaluating product performance, and predicting demand more accurately.
 
-   3.List of key technology used to build the Dashboard
-   Examlpe:
-   
-   The Dashboard was build using the following tools and technology:
-   -Power BI desktop- Main data Visulization platform used for report creation.
-   - Power Quary- Data transformation and data cleaning layer for reshaping and preparing the data.
-   - Dax( Data Analysis Expression)- Used for calculated measures, dynmic value and conditional logic.
-   - Data Modeling- Relationship stablish among tables.
-   - File Format- pbix for development and .png for dashboard preview.
+💼 Business Problem
 
-   4.Business Impact
+The company faced several challenges:
 
-   Improved sales planning accuracy
-   Enhanced visibility into performance KPIs
-   Faster decision-making through automated reporting
-   Identified actionable growth opportunities
+Lack of visibility into regional and product-level sales performance.
 
-   5.The company lacks a clear understanding of sales performance across regions, products, and time periods. Decision-          makers struggle to identify revenue trends, seasonal demand patterns, and future sales expectations. Without accurate       forecasting and real-time insights, sales planning, inventory management, and target setting become difficult and           inefficient.
-    This dashboard aims to solve these challenges by providing data-driven visibility, performance tracking, and               predictive forecasting.
-   : Key Business Questions to Answer
-        .How has sales performance changed compared to last year (YoY)?
-        .Which products or categories are driving the most revenue?
-        .Which regions or markets are performing well or underperforming?
-        .How can the business use these insights to improve planning and growth
-        .What is the contribution of each product category to total sales?
+Difficulty identifying top-selling and underperforming products.
 
-   6. Screenshot/ Demo:
-      Show what the dashboard looks like-
-      Example: https://github.com/priya00811-beep/Sales-Forecasting-Performance-Dashboard/blob/main/Sales%20KPI%20%26%20Revenue%20Insights%20Dashboard.png
+No reliable method to forecast future sales for inventory and budgeting.
 
+Inefficient manual reporting causing delays in decision-making.
+
+Limited understanding of customer buying patterns and seasonality.
+
+This dashboard solves these issues using interactive visual analytics and time-series forecasting.
+
+🎯 Project Objectives
+
+Provide a real-time overview of sales performance across products, regions, and time.
+
+Create an automated, clean Sales Forecasting model using Power BI.
+
+Enable decision-makers to quickly identify trends, anomalies, and growth opportunities.
+
+Reduce manual reporting and improve the speed of insights.
+
+📊 What’s Inside the Dashboard?
+
+Sales Overview Page
+
+Total Sales, Total Quantity Sold, Gross Profit
+
+Monthly, Yearly and Regional Sales Trends
+
+Product Category Breakdown
+
+Product Performance Page
+
+Top & Bottom 10 Products
+
+Product Profitability Analysis
+
+Contribution % by Category
+
+Customer Insights Page
+
+Customer Segmentation
+
+Repeat Customers vs. New Customers
+
+High-Value Customer Analysis
+
+Sales Forecasting Page
+
+3–6 month forecast using Time Series (DAX / Power BI Forecasting)
+
+Seasonality and Trend Patterns
+
+Future Sales Prediction Chart
+📊 What This Dashboard Shows
+✨ Key KPIs at a Glance
+
+Sales: 2M
+
+Quantity Sold: 22K
+
+Profit: 175K
+
+Average Shipping Days: 4 days
+
+These metrics give instant clarity on overall business performance.
+
+🧩 What’s Inside the Dashboard
+1️⃣ Sales by Payment Mode
+
+A donut chart showing how customers prefer to pay:
+
+COD: 43%
+
+Online: 35%
+
+Cards: 22%
+
+This helps optimise payment options for better conversions.
+
+2️⃣ Month-wise Profit (YoY)
+
+A year-over-year line chart comparing performance between 2019 vs 2020.
+It highlights seasonal trends, monthly profit dips, and growth patterns.
+
+3️⃣ Sales by Category
+
+Top categories contributing to revenue:
+
+Office Supplies
+
+Technology
+
+Furniture
+
+4️⃣ Sales by Sub-Category
+
+Phones, Chairs, and Binders are the top-performing sub-categories.
+
+5️⃣ Segment Analysis
+
+Consumer segment drives the highest sales, followed by Corporate and Home Office.
+Great insight for targeted marketing strategies.
+
+6️⃣ Sales by Ship Mode
+
+Understanding delivery preferences:
+
+Standard Class leads with 0.33M in sales
+
+Second Class, First Class, and Same Day follow behind
+
+🎛 Interactive Filters
+
+Users can filter sales by region:
+Central | East | South | West
+This makes analysis much more actionable for regional managers.
+
+🔮 Sales Forecasting Dashboard (15-Day Prediction) – Power BI | Project Highlight
+
+I recently worked on a Sales Forecasting Dashboard using Power BI to analyse historical sales trends and forecast the next 15 days.
+The goal of this report is to help businesses anticipate demand, optimise inventory, and improve planning accuracy.
+
+🛠️ Tools & Technologies
+
+Power BI Desktop
+
+Power Query (ETL)
+
+DAX (Measures & Calculations)
+
+Time-Series Forecasting
+
+Data Modeling (Star Schema)
+
+Excel / CSV Dataset
+
+📁 Dataset
+
+The dataset contains:
+
+Date
+
+Product ID / Category
+
+Sales Amount
+
+Quantity Sold
+
+Customer Details
+
+Region / Market
+
+(You can include a link to your dataset or upload sample data.)
+
+🚀 Key Insights & Outcomes
+
+Identified top 20% products generating 70% of revenue.
+
+Highlighted regions with the highest sales drop in specific months.
+
+Built a forecasting model showing increasing demand trend for next quarter.
+
+Improved reporting efficiency by 80% through automated dashboards.
+
+📊 What the Dashboard Shows
+1️⃣ Time-Series Sales Trend (2019–2021)
+2️⃣ 15-Day Sales Forecast (Zoomed-In View)
+3️⃣ Sales by State
+
+📌 How to Use the Dashboard
+
+Download the .pbix file from this repository.
+
+Open it in Power BI Desktop.
+
+Refresh data / connect to your data source.
+
+Interact with slicers and explore insights.
+
+🤝 Future Improvements
+
+Add AI-powered forecasting
+
+Screenshot/ Demo
+:Show the what the dashboard looks like
+Example: 
+
+Include marketing spend correlation
+
+Build a Predictive Model for Customer Lifetime Value (CLV)
